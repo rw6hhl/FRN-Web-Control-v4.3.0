@@ -1,0 +1,38 @@
+ Инструкция по установке
+Сохраните скрипт на Raspberry Pi / Orange Pi:
+
+bash
+nano install-frn-v4.3.0.sh
+(скопируйте весь скрипт выше и вставьте)
+
+Сделайте исполняемым:
+
+bash
+chmod +x install-frn-v4.3.0.sh
+Запустите установку:
+
+bash
+./install-frn-v4.3.0.sh
+🗺️ Добавленные серверы и комнаты
+Сервер	Порт	Комнаты
+01.lpd-net.ru	10024	Dīnīyē, Net07
+016.ipv6.lpd-net.ru	10044	Dīnīyē, Net07
+02.lpd-net.ru	10034	Test, 
+026.ipv6.lpd-net.ru	10044	Test, Regions, Rus26
+1a-funkfeuer.org	10024	Berghütte, FM-Funknetz-Link
+2a0a:9300:d1::16a3	10034	Dīnīyē, Net07
+Brazil-FRN.dvbr.net	10024	Test, Regions, FRN
+frn.hamcom.ru	9010	Test, Regions, Rus26, Rus05, Rus50, Rus64, Rus76, Rus95, Privat
+frn.r5vaz.ru	10024	Scanner, Repiter, Gubernia33
+frn55.ru	10024	Test, Regions, FRN, Rus26
+kavkaz.qrz.ru	10024	Test, Kavkaz, FRN, SVXREFLECTOR, NET1, NET2, NET3
+r3pij.ru	10024	NMSK, FRN
+r9fda.ru	10024	FRN, FREE
+xn--02-bmclt.lpd-net.ru	10024	Test, Regions, FRN
+🌐 Доступ к веб-интерфейсу
+После установки откройте в браузере:
+
+text
+http://[IP-адрес-вашего-устройства]:3000
+Например: http://192.168.1.100:3000
+
