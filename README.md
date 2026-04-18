@@ -1,3 +1,4 @@
+[FRN Web Control v4.5.0.txt](https://github.com/user-attachments/files/26857554/FRN.Web.Control.v4.5.0.txt)
 📡 О проекте
 FRN Web Control — это удобный веб-интерфейс для управления вашим FRN-линком. Позволяет удалённо подключаться к серверам FRN, переключать комнаты, настраивать RX GPIO и отслеживать статус подключения.
 
